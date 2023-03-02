@@ -9,7 +9,8 @@ blocks:
 - block: hero
   superheading: Velkommen til RPA.dk
   heading: Automatiser dit arbejde
-  subheading: Jeg hjælper dig med at opnå mere effektivitet </br> i dit arbejde ved hjælp af RPA
+  subheading: Jeg hjælper dig med at opnå mere effektivitet 
+  i dit arbejde ved hjælp af RPA
   image: /images/hero.jpg
   video: 
     text: Se video
