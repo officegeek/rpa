@@ -7,9 +7,9 @@ image:
 
 blocks:
 - block: hero
-  superheading: Velkommen til officegeek
-  heading: Styrk dine it kundskaber med "just-in-time" learning
-  subheading: Jeg tilbyder online kurser og webinarer med et klart fokus, eller hvad med online "En til En" undervisning
+  superheading: Velkommen til RPA.dk
+  heading: Automatiser dit arbejde - Velkommen til en verden af ​​RPA automatisering
+  subheading: Jeg hjælper dig med at opnå mere effektivitet i dit arbejde ved hjælp af RPA
   image: /images/hero.jpg
   video: 
     text: Se video
@@ -19,7 +19,7 @@ blocks:
     url: https://www.officegeek.dk/kurser
 
 - block: cards
-  heading: Hvorfor *OfficeGeek?*
+  heading: Hvorfor *RPA.dk?*
   subheading: Jeg har undervist i IT siden 1995.
   cards:
   - heading: God økonomi
