@@ -33,8 +33,8 @@ markup:
       
 params:
   description: "Online kurser"
-  logo: "/images/logo.svg"
-  logo_footer: "/images/logo.svg"
+  logo: "/images/rpa_logo.jpg"
+  logo_footer: "/images/rpa_logo.jpg"
   footer_text: "Siden 1995 har jeg undervist virksomheder og for kursusudbydere. Gennem årene er det blevet til rigtig mange tilfredse kursister"
   contact_text: "Kontakt mig hvis du har nogle spørgsmål."
   copyright: "Copyright © 2022"
